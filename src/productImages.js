@@ -1,0 +1,142 @@
+const photosByFamily = {
+  faceMakeup: [
+    '/product-photos/commons-123618950.jpg',
+    '/product-photos/commons-28817055.jpg',
+    '/product-photos/commons-127431010.jpg',
+    '/product-photos/commons-17303219.jpg',
+    '/product-photos/commons-157420841.jpg',
+    '/product-photos/commons-134194689.jpg',
+    '/product-photos/commons-122717021.jpg',
+    '/product-photos/commons-37383317.jpg',
+    '/product-photos/commons-64255016.png',
+    '/product-photos/commons-69630220.png',
+    '/product-photos/commons-127420653.jpg',
+    '/product-photos/commons-123777289.jpg',
+    '/product-photos/commons-102145764.jpg',
+    '/product-photos/commons-134196440.jpg',
+    '/product-photos/commons-195330238.jpg',
+    '/product-photos/commons-127434797.jpg',
+    '/product-photos/commons-17303099.jpg',
+    '/product-photos/commons-19125511.JPG',
+    '/product-photos/commons-117854745.jpg',
+    '/product-photos/commons-195322139.jpg',
+  ],
+  eyeMakeup: [
+    '/product-photos/commons-17303224.jpg',
+    '/product-photos/commons-770828.JPG',
+    '/product-photos/commons-5752036.jpg',
+    '/product-photos/commons-102145754.jpg',
+    '/product-photos/commons-102145848.jpg',
+    '/product-photos/commons-19125494.JPG',
+    '/product-photos/commons-11011338.jpg',
+    '/product-photos/commons-134469823.jpg',
+    '/product-photos/commons-2906910.jpg',
+    '/product-photos/commons-3257220.jpg',
+    '/product-photos/commons-98702935.jpg',
+    '/product-photos/commons-24322311.jpg',
+    '/product-photos/commons-102145766.jpg',
+    '/product-photos/commons-102145777.jpg',
+    '/product-photos/commons-102145856.jpg',
+    '/product-photos/commons-102145772.jpg',
+    '/product-photos/commons-196497380.jpg',
+    '/product-photos/commons-62118004.jpg',
+    '/product-photos/commons-39688159.jpg',
+    '/product-photos/commons-10952337.jpg',
+  ],
+  lips: [
+    '/product-photos/commons-11003937.jpg',
+    '/product-photos/commons-10951688.jpg',
+    '/product-photos/commons-110449290.jpg',
+    '/product-photos/commons-2999567.jpg',
+    '/product-photos/commons-120109699.jpg',
+    '/product-photos/commons-84874046.jpg',
+    '/product-photos/commons-111797980.png',
+    '/product-photos/commons-11003718.jpg',
+    '/product-photos/commons-116796966.jpg',
+    '/product-photos/commons-1218592.JPG',
+    '/product-photos/commons-147947811.jpg',
+    '/product-photos/commons-51440179.jpg',
+    '/product-photos/lipstick.jpg',
+    '/product-photos/commons-54249141.jpg',
+    '/product-photos/commons-64731567.jpg',
+    '/product-photos/commons-17303270.jpg',
+    '/product-photos/commons-36643589.jpg',
+    '/product-photos/commons-123483160.jpg',
+    '/product-photos/commons-69750415.jpg',
+    '/product-photos/commons-64731615.jpg',
+    '/product-photos/commons-64731669.jpg',
+    '/product-photos/commons-64731695.jpg',
+    '/product-photos/commons-12279805.jpg',
+    '/product-photos/commons-174835900.jpg',
+    '/product-photos/commons-19125485.JPG',
+    '/product-photos/commons-19125505.JPG',
+    '/product-photos/commons-82879468.jpg',
+    '/product-photos/commons-64731713.jpg',
+  ],
+  skincare: [
+    '/product-photos/cleanser-tubes.jpg',
+    '/product-photos/cream-jar.jpg',
+    '/product-photos/serum-collection.jpg',
+    '/product-photos/skincare-bottles.jpg',
+    '/product-photos/unsplash-1571781926291-c477ebfd024b.jpg',
+    '/product-photos/commons-69968770.jpg',
+    '/product-photos/commons-149060412.jpg',
+    '/product-photos/unsplash-1573461160327-b450ce3d8e7f.jpg',
+    '/product-photos/commons-121270154.jpg',
+    '/product-photos/commons-36062853.jpg',
+    '/product-photos/serum-application.jpg',
+    '/product-photos/unsplash-1615397349754-cfa2066a298e.jpg',
+    '/product-photos/skincare-set.jpg',
+    '/product-photos/skincare-flatlay.jpg',
+    '/product-photos/unsplash-1556229010-6c3f2c9ca5f8.jpg',
+    '/product-photos/unsplash-1556228720-195a672e8a03.jpg',
+    '/product-photos/commons-43984229.jpg',
+    '/product-photos/unsplash-1601049676869-702ea24cfd58.jpg',
+    '/product-photos/unsplash-1608248543803-ba4f8c70ae0b.jpg',
+    '/product-photos/unsplash-1580870069867-74c57ee1bb07.jpg',
+    '/product-photos/unsplash-1570172619644-dfd03ed5d881.jpg',
+    '/product-photos/commons-127434792.jpg',
+    '/product-photos/commons-11152796.png',
+    '/product-photos/skincare-bottle.jpg',
+    '/product-photos/commons-124851803.jpg',
+    '/product-photos/unsplash-1611930022073-b7a4ba5fcccd.jpg',
+    '/product-photos/commons-200207398.jpg',
+    '/product-photos/commons-196106654.jpg',
+    '/product-photos/unsplash-1608571423902-eed4a5ad8108.jpg',
+  ],
+  bodycare: [
+    '/product-photos/commons-23332472.JPG',
+    '/product-photos/commons-121271314.jpg',
+    '/product-photos/commons-19411559.jpg',
+  ],
+  beauty: [
+    '/product-photos/facial-mask.jpg',
+    '/product-photos/commons-9800696.jpg',
+  ],
+};
+
+const familyByDepartment = {
+  'Face Makeup': 'faceMakeup',
+  'Eye Makeup': 'eyeMakeup',
+  'Lip Makeup': 'lips',
+  Lipcare: 'lips',
+  Skincare: 'skincare',
+  Bodycare: 'bodycare',
+  Beauty: 'beauty',
+};
+
+export function productImageFamily(product) {
+  const family = familyByDepartment[product.department];
+  if (!family) throw new RangeError(`No product photo family for ${product.department}`);
+  return family;
+}
+
+export function createProductImage(product, view = 0, slot = 0) {
+  const photos = photosByFamily[productImageFamily(product)];
+  if (!Number.isInteger(slot) || slot < 0 || slot >= photos.length) {
+    throw new RangeError(`No primary photo slot ${slot} for ${product.name}`);
+  }
+  const offset = Number.isFinite(view) ? Math.trunc(view) : 0;
+  const imageIndex = ((slot + offset) % photos.length + photos.length) % photos.length;
+  return photos[imageIndex];
+}

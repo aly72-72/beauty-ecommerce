@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#100d0e" />
+    <title>Photo credits | Abeauty</title>
+    <style>
+      :root { color-scheme: dark; font-family: Arial, sans-serif; background: #100d0e; color: #f7edef; }
+      body { margin: 0; padding: 48px 20px; }
+      main { max-width: 860px; margin: auto; }
+      a { color: #ff6975; }
+      h1 { font-family: Georgia, serif; font-weight: 400; }
+      li { padding: 16px 0; border-top: 1px solid #48262b; }
+      p { color: #d3bec2; line-height: 1.6; }
+      #credits-error { color: #ff8a93; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <a href="/">← Back to Abeauty</a>
+      <h1>Photo credits</h1>
+      <p>Product photos are representative examples of each product type and may not depict the exact brand or shade listed.</p>
+      <p>Commons photos are credited below with their license and source. Images were resized for the storefront.</p>
+      <p id="credits-error" role="status">Loading photo credits…</p>
+      <ol id="credits"></ol>
+    </main>
+    <script type="module">
+      const list = document.querySelector('#credits');
+      const status = document.querySelector('#credits-error');
+
+      try {
+        const response = await fetch('/photo-credits.json');
+        if (!response.ok) throw new Error(`Unable to load photo credits (${response.status})`);
+        const entries = await response.json();
+        for (const entry of entries) {
+          const item = document.createElement('li');
+          const source = document.createElement('a');
+          source.href = entry.source;
+          source.target = '_blank';
+          source.rel = 'noreferrer';
+          source.textContent = entry.title;
+          item.append(source);
+          const details = document.createElement('p');
+          details.textContent = `${entry.credit} — ${entry.license}`;
+          if (entry.licenseUrl) {
+            const license = document.createElement('a');
+            license.href = entry.licenseUrl;
+            license.target = '_blank';
+            license.rel = 'noreferrer';
+            license.textContent = 'License';
+            details.append(' · ', license);
+          }
+          item.append(details);
+          list.append(item);
+        }
+        status.remove();
+      } catch (error) {
+        status.textContent = error.message;
+      }
+    </script>
+  </body>
+</html>

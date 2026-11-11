@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" fill="none">
+  <defs>
+    <radialGradient id="petal" cx="0" cy="0" r="1" gradientTransform="matrix(0 76 -32 0 120 62)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8B8"/>
+      <stop offset=".46" stop-color="#F9D64D"/>
+      <stop offset="1" stop-color="#D99B18"/>
+    </radialGradient>
+    <radialGradient id="center" cx="0" cy="0" r="1" gradientTransform="matrix(0 55 -55 0 120 127)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B4F1D"/>
+      <stop offset=".55" stop-color="#683A19"/>
+      <stop offset="1" stop-color="#3C291B"/>
+    </radialGradient>
+    <linearGradient id="leaf" x1="86" x2="165" y1="201" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F9C42"/>
+      <stop offset="1" stop-color="#315D36"/>
+    </linearGradient>
+    <filter id="soft-shadow" width="1.5" height="1.5" x="-.25" y="-.2" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <g id="petal-shape">
+      <path d="M120 45C102 45 97 25 103 10c4-10 30-10 34 0 6 15 1 35-17 35Z" fill="url(#petal)" stroke="#CC8D16" stroke-opacity=".5" stroke-width="1.2"/>
+      <path d="M120 43c-2-12-2-22 0-33" stroke="#FFF9D1" stroke-opacity=".7" stroke-width="1.4"/>
+    </g>
+  </defs>
+  <ellipse cx="120" cy="174" rx="70" ry="13" fill="#60401F" opacity=".16" filter="url(#soft-shadow)"/>
+  <path d="M120 144c-2 47-5 91-4 137" stroke="#48743A" stroke-linecap="round" stroke-width="9"/>
+  <path d="M116 233c-37-35-65-25-72-6 28 20 50 25 72 6Z" fill="url(#leaf)" stroke="#315D36" stroke-width="1.5"/>
+  <path d="M117 232c-21-3-42-5-67-5m65 5-28-13" stroke="#C1D48A" stroke-linecap="round" stroke-width="1.5" opacity=".8"/>
+  <path d="M116 256c29-32 58-27 69-9-23 23-45 30-69 9Z" fill="url(#leaf)" stroke="#315D36" stroke-width="1.5"/>
+  <path d="M117 255c21-5 42-9 64-9m-64 9 28-17" stroke="#C1D48A" stroke-linecap="round" stroke-width="1.5" opacity=".8"/>
+  <g opacity=".95">
+    <use href="#petal-shape"/>
+    <use href="#petal-shape" transform="rotate(22.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(45 120 120)"/>
+    <use href="#petal-shape" transform="rotate(67.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(90 120 120)"/>
+    <use href="#petal-shape" transform="rotate(112.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(135 120 120)"/>
+    <use href="#petal-shape" transform="rotate(157.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(180 120 120)"/>
+    <use href="#petal-shape" transform="rotate(202.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(225 120 120)"/>
+    <use href="#petal-shape" transform="rotate(247.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(270 120 120)"/>
+    <use href="#petal-shape" transform="rotate(292.5 120 120)"/>
+    <use href="#petal-shape" transform="rotate(315 120 120)"/>
+    <use href="#petal-shape" transform="rotate(337.5 120 120)"/>
+  </g>
+  <circle cx="120" cy="120" r="43" fill="url(#center)" stroke="#482C1A" stroke-width="2"/>
+  <circle cx="120" cy="120" r="36" stroke="#D39A38" stroke-opacity=".52"/>
+  <g fill="#D6A348" opacity=".75">
+    <circle cx="103" cy="100" r="1.6"/><circle cx="117" cy="96" r="1.5"/><circle cx="132" cy="102" r="1.7"/>
+    <circle cx="143" cy="114" r="1.5"/><circle cx="137" cy="131" r="1.7"/><circle cx="124" cy="143" r="1.5"/>
+    <circle cx="108" cy="137" r="1.6"/><circle cx="97" cy="122" r="1.4"/><circle cx="115" cy="113" r="1.4"/>
+    <circle cx="127" cy="122" r="1.6"/><circle cx="111" cy="128" r="1.3"/><circle cx="132" cy="136" r="1.4"/>
+    <circle cx="101" cy="111" r="1.4"/><circle cx="122" cy="103" r="1.3"/><circle cx="141" cy="125" r="1.4"/>
+  </g>
+</svg>

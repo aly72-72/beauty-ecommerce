@@ -1,0 +1,898 @@
+[
+  {
+    "file": "/product-photos/cleanser-tubes.jpg",
+    "title": "Unsplash photo cleanser-tubes.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/commons-102145754.jpg",
+    "title": "Eye Makeup Palette and Brush Kit.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEye%20Makeup%20Palette%20and%20Brush%20Kit.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145764.jpg",
+    "title": "Make Up Flat Lay for Background.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMake%20Up%20Flat%20Lay%20for%20Background.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145766.jpg",
+    "title": "Eyeshadow Brushes and Eyeshadow Palette (White Background) - 50922168986.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEyeshadow%20Brushes%20and%20Eyeshadow%20Palette%20(White%20Background)%20-%2050922168986.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145772.jpg",
+    "title": "Make Up Set, Palettes and Brushes - 50921483638.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMake%20Up%20Set%2C%20Palettes%20and%20Brushes%20-%2050921483638.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145777.jpg",
+    "title": "Eyeshadow Palette & Eyeshadow Brushes - 50922168141.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEyeshadow%20Palette%20%26%20Eyeshadow%20Brushes%20-%2050922168141.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145848.jpg",
+    "title": "Eyeshadow Palette and Make Up Brushes - 50887329958.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEyeshadow%20Palette%20and%20Make%20Up%20Brushes%20-%2050887329958.jpg"
+  },
+  {
+    "file": "/product-photos/commons-102145856.jpg",
+    "title": "Make Up Brushes & Eyeshadow Palette - 50888047576.jpg",
+    "credit": "geehairimages",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMake%20Up%20Brushes%20%26%20Eyeshadow%20Palette%20-%2050888047576.jpg"
+  },
+  {
+    "file": "/product-photos/commons-10951688.jpg",
+    "title": "Pink lip gloss.jpg",
+    "credit": "Maria Morri",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APink%20lip%20gloss.jpg"
+  },
+  {
+    "file": "/product-photos/commons-10952337.jpg",
+    "title": "Blue yellow shadow three quarter.jpg",
+    "credit": "Deborah Austin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABlue%20yellow%20shadow%20three%20quarter.jpg"
+  },
+  {
+    "file": "/product-photos/commons-11003718.jpg",
+    "title": "L'Oreal Colour Riche Lipsticks.jpg",
+    "credit": "Arienne McCracken",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AL'Oreal%20Colour%20Riche%20Lipsticks.jpg"
+  },
+  {
+    "file": "/product-photos/commons-11003937.jpg",
+    "title": "Lipstick (product).jpg",
+    "credit": "Maria Morri",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipstick%20(product).jpg"
+  },
+  {
+    "file": "/product-photos/commons-11011338.jpg",
+    "title": "Eyelashes & Mascara.jpg",
+    "credit": "Shane Gavin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEyelashes%20%26%20Mascara.jpg"
+  },
+  {
+    "file": "/product-photos/commons-110449290.jpg",
+    "title": "Rosa Lipstick 2021-09-09 1550.jpg",
+    "credit": "Salicyna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARosa%20Lipstick%202021-09-09%201550.jpg"
+  },
+  {
+    "file": "/product-photos/commons-11152796.png",
+    "title": "Sonnenschutzcreme der Bundeswehr.png",
+    "credit": "User:Mattes",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASonnenschutzcreme%20der%20Bundeswehr.png"
+  },
+  {
+    "file": "/product-photos/commons-111797980.png",
+    "title": "Lippenöl.png",
+    "credit": "AnginaKup",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALippen%C3%B6l.png"
+  },
+  {
+    "file": "/product-photos/commons-116796966.jpg",
+    "title": "Lipstick Pexels Breakingpic 3123.jpg",
+    "credit": "Breakingpic",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipstick%20Pexels%20Breakingpic%203123.jpg"
+  },
+  {
+    "file": "/product-photos/commons-117854745.jpg",
+    "title": "Mavis Face Powder ad in Motion Picture Magazine (Aug 1922-Jan 1923) (IA motionpicturemag24brew) (page 8 crop).jpg",
+    "credit": "Brewster Publications, inc.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMavis%20Face%20Powder%20ad%20in%20Motion%20Picture%20Magazine%20(Aug%201922-Jan%201923)%20(IA%20motionpicturemag24brew)%20(page%208%20crop).jpg"
+  },
+  {
+    "file": "/product-photos/commons-120109699.jpg",
+    "title": "Lippenkonturenstift.jpg",
+    "credit": "WH23",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALippenkonturenstift.jpg"
+  },
+  {
+    "file": "/product-photos/commons-121270154.jpg",
+    "title": "Day cream 02.jpg",
+    "credit": "Benff",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADay%20cream%2002.jpg"
+  },
+  {
+    "file": "/product-photos/commons-121271314.jpg",
+    "title": "Deocreme (2).jpg",
+    "credit": "Benff",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADeocreme%20(2).jpg"
+  },
+  {
+    "file": "/product-photos/commons-1218592.JPG",
+    "title": "Lip Gloss.JPG",
+    "credit": "Creator listed on Wikimedia Commons file page",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALip%20Gloss.JPG"
+  },
+  {
+    "file": "/product-photos/commons-122717021.jpg",
+    "title": "Arturo Ricci Powder Puff.jpg",
+    "credit": "Arturo Ricci",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AArturo%20Ricci%20Powder%20Puff.jpg"
+  },
+  {
+    "file": "/product-photos/commons-12279805.jpg",
+    "title": "Lipstick mac day 4.jpg",
+    "credit": "Maria Morri",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipstick%20mac%20day%204.jpg"
+  },
+  {
+    "file": "/product-photos/commons-123483160.jpg",
+    "title": "Crystal Hearts Lipstick Review.jpg",
+    "credit": "Adam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACrystal%20Hearts%20Lipstick%20Review.jpg"
+  },
+  {
+    "file": "/product-photos/commons-123618950.jpg",
+    "title": "Fit Me! Maybelline Review.jpg",
+    "credit": "Adam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFit%20Me!%20Maybelline%20Review.jpg"
+  },
+  {
+    "file": "/product-photos/commons-123777289.jpg",
+    "title": "Hi-Hat Jockey Club Face Powder - DPLA - ea64e7f95c7e917f7571bfd6a315cca3 (page 1).jpg",
+    "credit": "Keystone Laboratories, Inc",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHi-Hat%20Jockey%20Club%20Face%20Powder%20-%20DPLA%20-%20ea64e7f95c7e917f7571bfd6a315cca3%20(page%201).jpg"
+  },
+  {
+    "file": "/product-photos/commons-124851803.jpg",
+    "title": "Suncademy airless bottle sunscreen citronella active ingredients.jpg",
+    "credit": "Alpantex",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASuncademy%20airless%20bottle%20sunscreen%20citronella%20active%20ingredients.jpg"
+  },
+  {
+    "file": "/product-photos/commons-127420653.jpg",
+    "title": "La Jac Hi-Brown Liquid Face Powder and Leg Make-Up - DPLA - fd621e76422b3741d0a563d09652fd3a (page 2).jpg",
+    "credit": "Keystone Laboratories, Inc",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALa%20Jac%20Hi-Brown%20Liquid%20Face%20Powder%20and%20Leg%20Make-Up%20-%20DPLA%20-%20fd621e76422b3741d0a563d09652fd3a%20(page%202).jpg"
+  },
+  {
+    "file": "/product-photos/commons-127431010.jpg",
+    "title": "Tangee Face Powder - DPLA - 08da22f42f776a4e1ac3b9da29f5097e (page 1).jpg",
+    "credit": "George W. Luft Co",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATangee%20Face%20Powder%20-%20DPLA%20-%2008da22f42f776a4e1ac3b9da29f5097e%20(page%201).jpg"
+  },
+  {
+    "file": "/product-photos/commons-127434792.jpg",
+    "title": "Container of RAY-NOX sun protectant - DPLA - 00d8ccb4ef29130f313546e6eda9ec5d.jpg",
+    "credit": "Torch Laboratories, Inc",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%20of%20RAY-NOX%20sun%20protectant%20-%20DPLA%20-%2000d8ccb4ef29130f313546e6eda9ec5d.jpg"
+  },
+  {
+    "file": "/product-photos/commons-127434797.jpg",
+    "title": "Overton's High Brown La Petite Face Powder - DPLA - 7dc2d27ad7bd071fa88040201ae96c0c (page 1).jpg",
+    "credit": "Overton Hygienic Manufacturing Co",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOverton's%20High%20Brown%20La%20Petite%20Face%20Powder%20-%20DPLA%20-%207dc2d27ad7bd071fa88040201ae96c0c%20(page%201).jpg"
+  },
+  {
+    "file": "/product-photos/commons-134194689.jpg",
+    "title": "Cheekbone Beauty SUSTAIN Face Palette - DPLA - 5bbaf317bb56b8e0dcbcf42c33167e28 (page 1).jpg",
+    "credit": "Cheekbone",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACheekbone%20Beauty%20SUSTAIN%20Face%20Palette%20-%20DPLA%20-%205bbaf317bb56b8e0dcbcf42c33167e28%20(page%201).jpg"
+  },
+  {
+    "file": "/product-photos/commons-134196440.jpg",
+    "title": "Pond's Dreamflower Powder - DPLA - 324102fe83ba1b4e0fb8b4af5644b37c (page 1).jpg",
+    "credit": "Pond's Extract Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APond's%20Dreamflower%20Powder%20-%20DPLA%20-%20324102fe83ba1b4e0fb8b4af5644b37c%20(page%201).jpg"
+  },
+  {
+    "file": "/product-photos/commons-134469823.jpg",
+    "title": "Max Factor cake mascara 1960.jpg",
+    "credit": "Mölndals stadsmuseum",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMax%20Factor%20cake%20mascara%201960.jpg"
+  },
+  {
+    "file": "/product-photos/commons-147947811.jpg",
+    "title": "Elf makeup lip gloss.jpg",
+    "credit": "Marycollinsc",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3AElf%20makeup%20lip%20gloss.jpg"
+  },
+  {
+    "file": "/product-photos/commons-149060412.jpg",
+    "title": "Baby wipes.jpg",
+    "credit": "Headlock0225",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABaby%20wipes.jpg"
+  },
+  {
+    "file": "/product-photos/commons-15091195.JPG",
+    "title": "アロマオイル.JPG",
+    "credit": "okawakazue",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3A%E3%82%A2%E3%83%AD%E3%83%9E%E3%82%AA%E3%82%A4%E3%83%AB.JPG"
+  },
+  {
+    "file": "/product-photos/commons-157420841.jpg",
+    "title": "Laura Mercier - Foundation primer.jpg",
+    "credit": "Arienne McCracken",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALaura%20Mercier%20-%20Foundation%20primer.jpg"
+  },
+  {
+    "file": "/product-photos/commons-17303099.jpg",
+    "title": "Loose mineral powder.jpg",
+    "credit": "Jen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALoose%20mineral%20powder.jpg"
+  },
+  {
+    "file": "/product-photos/commons-17303219.jpg",
+    "title": "Loose mineral powder (2).jpg",
+    "credit": "Jen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALoose%20mineral%20powder%20(2).jpg"
+  },
+  {
+    "file": "/product-photos/commons-17303224.jpg",
+    "title": "Mascara (1).jpg",
+    "credit": "Jen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMascara%20(1).jpg"
+  },
+  {
+    "file": "/product-photos/commons-17303270.jpg",
+    "title": "Lipliner.jpg",
+    "credit": "Jen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipliner.jpg"
+  },
+  {
+    "file": "/product-photos/commons-174835900.jpg",
+    "title": "Lipstick- My top 5! - 18072840654.jpg",
+    "credit": "Vanilla and lace",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipstick-%20My%20top%205!%20-%2018072840654.jpg"
+  },
+  {
+    "file": "/product-photos/commons-19125485.JPG",
+    "title": "Lipsticks - Κραγιόν.JPG",
+    "credit": "Evi Michailidou",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipsticks%20-%20%CE%9A%CF%81%CE%B1%CE%B3%CE%B9%CF%8C%CE%BD.JPG"
+  },
+  {
+    "file": "/product-photos/commons-19125494.JPG",
+    "title": "Compact Eyeshadow pallete - Παλέτα με Συμπαγείς σκιές ματιών.JPG",
+    "credit": "Evi Michailidou",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACompact%20Eyeshadow%20pallete%20-%20%CE%A0%CE%B1%CE%BB%CE%AD%CF%84%CE%B1%20%CE%BC%CE%B5%20%CE%A3%CF%85%CE%BC%CF%80%CE%B1%CE%B3%CE%B5%CE%AF%CF%82%20%CF%83%CE%BA%CE%B9%CE%AD%CF%82%20%CE%BC%CE%B1%CF%84%CE%B9%CF%8E%CE%BD.JPG"
+  },
+  {
+    "file": "/product-photos/commons-19125505.JPG",
+    "title": "Three Lipsticks in different colors - Τρία κραγιόν σε διαφορετικά χρώματα.JPG",
+    "credit": "Evi Michailidou",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AThree%20Lipsticks%20in%20different%20colors%20-%20%CE%A4%CF%81%CE%AF%CE%B1%20%CE%BA%CF%81%CE%B1%CE%B3%CE%B9%CF%8C%CE%BD%20%CF%83%CE%B5%20%CE%B4%CE%B9%CE%B1%CF%86%CE%BF%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CE%AC%20%CF%87%CF%81%CF%8E%CE%BC%CE%B1%CF%84%CE%B1.JPG"
+  },
+  {
+    "file": "/product-photos/commons-19125511.JPG",
+    "title": "Loose powder in three shades - Ελεύθερες πούδρες σε τρεις αποχρώσεις.JPG",
+    "credit": "Evi Michailidou",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALoose%20powder%20in%20three%20shades%20-%20%CE%95%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%B5%CF%82%20%CF%80%CE%BF%CF%8D%CE%B4%CF%81%CE%B5%CF%82%20%CF%83%CE%B5%20%CF%84%CF%81%CE%B5%CE%B9%CF%82%20%CE%B1%CF%80%CE%BF%CF%87%CF%81%CF%8E%CF%83%CE%B5%CE%B9%CF%82.JPG"
+  },
+  {
+    "file": "/product-photos/commons-195322139.jpg",
+    "title": "La Jac Face Powder.jpg",
+    "credit": "Joe Mabel",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALa%20Jac%20Face%20Powder.jpg"
+  },
+  {
+    "file": "/product-photos/commons-195330238.jpg",
+    "title": "Overton's High Brown Face Powder.jpg",
+    "credit": "Joe Mabel",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOverton's%20High%20Brown%20Face%20Powder.jpg"
+  },
+  {
+    "file": "/product-photos/commons-196106654.jpg",
+    "title": "LRP sunscreen bottle.jpg",
+    "credit": "Netstars22",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALRP%20sunscreen%20bottle.jpg"
+  },
+  {
+    "file": "/product-photos/commons-196497380.jpg",
+    "title": "Applying colorful eyeshadow during a makeup session at a beauty counter.jpg",
+    "credit": "Shixart1985",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AApplying%20colorful%20eyeshadow%20during%20a%20makeup%20session%20at%20a%20beauty%20counter.jpg"
+  },
+  {
+    "file": "/product-photos/commons-200207398.jpg",
+    "title": "化妝用容器.jpg",
+    "credit": "丘崈",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3A%E5%8C%96%E5%A6%9D%E7%94%A8%E5%AE%B9%E5%99%A8.jpg"
+  },
+  {
+    "file": "/product-photos/commons-23332472.JPG",
+    "title": "\" 12 - ITALY - cosmetics of italian brands - Hair and skin care, scrub (gommage) shaving soap, body lotions and deodorant.JPG",
+    "credit": "Pava",
+    "license": "CC BY-SA 3.0 it",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/it/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3A%22%2012%20-%20ITALY%20-%20cosmetics%20of%20italian%20brands%20-%20Hair%20and%20skin%20care%2C%20scrub%20(gommage)%20shaving%20soap%2C%20body%20lotions%20and%20deodorant.JPG"
+  },
+  {
+    "file": "/product-photos/commons-24322311.jpg",
+    "title": "Antique Mascara bottle circa 1600 (3139774897).jpg",
+    "credit": "Serge Melki from Indianapolis, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAntique%20Mascara%20bottle%20circa%201600%20(3139774897).jpg"
+  },
+  {
+    "file": "/product-photos/commons-2690087.jpg",
+    "title": "Metric shampoo bottle.jpg",
+    "credit": "The original uploader was Daniel Case at English Wikipedia.\n\nLater versions were uploaded by Rmhermen at en.wikipedia. This version was in turn uploaded to commons by Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMetric%20shampoo%20bottle.jpg"
+  },
+  {
+    "file": "/product-photos/commons-28817055.jpg",
+    "title": "Makeup .jpg",
+    "credit": "Vanessatevesti",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMakeup%20.jpg"
+  },
+  {
+    "file": "/product-photos/commons-2906910.jpg",
+    "title": "Mascara de pestañas.jpg",
+    "credit": "Jorge Barrios",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMascara%20de%20pesta%C3%B1as.jpg"
+  },
+  {
+    "file": "/product-photos/commons-29324212.jpg",
+    "title": "SK Korea 最佳西方 首爾花園酒店 Best Western Premier Seoul Garden Hotel bathroom tube La Source Crabtree & Evelyn n Shower Cap free boxes July-2013 cotton buds Comb.JPG",
+    "credit": "Woodarelaisku",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASK%20Korea%20%E6%9C%80%E4%BD%B3%E8%A5%BF%E6%96%B9%20%E9%A6%96%E7%88%BE%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97%20Best%20Western%20Premier%20Seoul%20Garden%20Hotel%20bathroom%20tube%20La%20Source%20Crabtree%20%26%20Evelyn%20n%20Shower%20Cap%20free%20boxes%20July-2013%20cotton%20buds%20Comb.JPG"
+  },
+  {
+    "file": "/product-photos/commons-2999567.jpg",
+    "title": "ChapStick.jpg",
+    "credit": "Jorge Barrios",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChapStick.jpg"
+  },
+  {
+    "file": "/product-photos/commons-3257220.jpg",
+    "title": "Green mascara.jpg",
+    "credit": "Original uploader was Chilledsunshine at en.wikipedia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGreen%20mascara.jpg"
+  },
+  {
+    "file": "/product-photos/commons-36062853.jpg",
+    "title": "Hazeline Cream and Snow, various products Wellcome L0034054.jpg",
+    "credit": "Creator listed on Wikimedia Commons file page",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHazeline%20Cream%20and%20Snow%2C%20various%20products%20Wellcome%20L0034054.jpg"
+  },
+  {
+    "file": "/product-photos/commons-36643589.jpg",
+    "title": "Lip Liner.jpg",
+    "credit": "222222344444456gg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALip%20Liner.jpg"
+  },
+  {
+    "file": "/product-photos/commons-37383317.jpg",
+    "title": "Rigaud's Mary Garden Face Powder Ad 1922.jpg",
+    "credit": "Mishkin",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARigaud's%20Mary%20Garden%20Face%20Powder%20Ad%201922.jpg"
+  },
+  {
+    "file": "/product-photos/commons-39688159.jpg",
+    "title": "Mascara moment.jpg",
+    "credit": "Alex from Ithaca, NY",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMascara%20moment.jpg"
+  },
+  {
+    "file": "/product-photos/commons-43984229.jpg",
+    "title": "Hinds Honey and Almond Fragrance Cream, 1948.jpg",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHinds%20Honey%20and%20Almond%20Fragrance%20Cream%2C%201948.jpg"
+  },
+  {
+    "file": "/product-photos/commons-51440179.jpg",
+    "title": "Makeup-beauty-lipstick-make-up (24030573540).jpg",
+    "credit": "www.Pixel.la Free Stock Photos",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMakeup-beauty-lipstick-make-up%20(24030573540).jpg"
+  },
+  {
+    "file": "/product-photos/commons-54249141.jpg",
+    "title": "ChapStick lip balm.jpg",
+    "credit": "Jorge Barrios Riquelme",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChapStick%20lip%20balm.jpg"
+  },
+  {
+    "file": "/product-photos/commons-5752036.jpg",
+    "title": "Eye make-up (mascara).jpg",
+    "credit": "Camila Zanon.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEye%20make-up%20(mascara).jpg"
+  },
+  {
+    "file": "/product-photos/commons-61830064.jpg",
+    "title": "Dark Makeup Look (Unsplash).jpg",
+    "credit": "Allef Vinicius seteales",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADark%20Makeup%20Look%20(Unsplash).jpg"
+  },
+  {
+    "file": "/product-photos/commons-62118004.jpg",
+    "title": "Makeup brushes and eyeshadows (Unsplash).jpg",
+    "credit": "freestocks.org freestocks",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMakeup%20brushes%20and%20eyeshadows%20(Unsplash).jpg"
+  },
+  {
+    "file": "/product-photos/commons-64255016.png",
+    "title": "Makeupil.png",
+    "credit": "Orelsimantov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMakeupil.png"
+  },
+  {
+    "file": "/product-photos/commons-64731567.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-1).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C%20lipstick%20(AM%202014.56.40-1).jpg"
+  },
+  {
+    "file": "/product-photos/commons-64731615.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-2).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C%20lipstick%20(AM%202014.56.40-2).jpg"
+  },
+  {
+    "file": "/product-photos/commons-64731669.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-5).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C%20lipstick%20(AM%202014.56.40-5).jpg"
+  },
+  {
+    "file": "/product-photos/commons-64731695.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-6).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C%20lipstick%20(AM%202014.56.40-6).jpg"
+  },
+  {
+    "file": "/product-photos/commons-64731713.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-7).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C%20lipstick%20(AM%202014.56.40-7).jpg"
+  },
+  {
+    "file": "/product-photos/commons-69630220.png",
+    "title": "BB-Bea horizontally-cropped.png",
+    "credit": "Brian Boulos from NYC",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABB-Bea%20horizontally-cropped.png"
+  },
+  {
+    "file": "/product-photos/commons-69750415.jpg",
+    "title": "Studio Sellma Lip Gloss.jpg",
+    "credit": "Etrit Haxhiu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AStudio%20Sellma%20Lip%20Gloss.jpg"
+  },
+  {
+    "file": "/product-photos/commons-69968770.jpg",
+    "title": "SKLEER Natural Skin Restoration Gel 2.5oz Carton Tube.jpg",
+    "credit": "Skleer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASKLEER%20Natural%20Skin%20Restoration%20Gel%202.5oz%20Carton%20Tube.jpg"
+  },
+  {
+    "file": "/product-photos/commons-770828.JPG",
+    "title": "Mascara 0652.JPG",
+    "credit": "own work",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMascara%200652.JPG"
+  },
+  {
+    "file": "/product-photos/commons-82879468.jpg",
+    "title": "Lipstick containers in plastic pocket (AM 2006.58.2-1).jpg",
+    "credit": "\nColonial Ammunition Company",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALipstick%20containers%20in%20plastic%20pocket%20(AM%202006.58.2-1).jpg"
+  },
+  {
+    "file": "/product-photos/commons-84874046.jpg",
+    "title": "Liquid Lip Tint.jpg",
+    "credit": "Uminokawauso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALiquid%20Lip%20Tint.jpg"
+  },
+  {
+    "file": "/product-photos/commons-8978553.jpg",
+    "title": "Chapstick.jpg",
+    "credit": "The original uploader was Tristanb at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChapstick.jpg"
+  },
+  {
+    "file": "/product-photos/commons-91510675.jpg",
+    "title": "Miles of makeup at Sephora - Flickr - Jennie Robinson Faber.jpg",
+    "credit": "Jennie Robinson Faber from Toronto, Ontario, Canada",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMiles%20of%20makeup%20at%20Sephora%20-%20Flickr%20-%20Jennie%20Robinson%20Faber.jpg"
+  },
+  {
+    "file": "/product-photos/commons-9800696.jpg",
+    "title": "Alexis Ford Touching Up Her Makeup at the 2010 AEE.jpg",
+    "credit": "Jo Anna Barber",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAlexis%20Ford%20Touching%20Up%20Her%20Makeup%20at%20the%202010%20AEE.jpg"
+  },
+  {
+    "file": "/product-photos/commons-98702935.jpg",
+    "title": "Mascara-example.jpg",
+    "credit": "TaskManager",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMascara-example.jpg"
+  },
+  {
+    "file": "/product-photos/cream-jar.jpg",
+    "title": "Unsplash photo cream-jar.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/eye-makeup-flatlay.jpg",
+    "title": "Unsplash photo eye-makeup-flatlay.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/facial-mask.jpg",
+    "title": "Unsplash photo facial-mask.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/lipstick.jpg",
+    "title": "Unsplash photo lipstick.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/makeup-flatlay.jpg",
+    "title": "Unsplash photo makeup-flatlay.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/makeup-tools.jpg",
+    "title": "Unsplash photo makeup-tools.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/serum-application.jpg",
+    "title": "Unsplash photo serum-application.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/serum-collection.jpg",
+    "title": "Unsplash photo serum-collection.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/skincare-bottle.jpg",
+    "title": "Unsplash photo skincare-bottle.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/skincare-bottles.jpg",
+    "title": "Unsplash photo skincare-bottles.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/skincare-flatlay.jpg",
+    "title": "Unsplash photo skincare-flatlay.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/skincare-set.jpg",
+    "title": "Unsplash photo skincare-set.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1556228720-195a672e8a03.jpg",
+    "title": "Unsplash photo unsplash-1556228720-195a672e8a03.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1556229010-6c3f2c9ca5f8.jpg",
+    "title": "Unsplash photo unsplash-1556229010-6c3f2c9ca5f8.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1570172619644-dfd03ed5d881.jpg",
+    "title": "Unsplash photo unsplash-1570172619644-dfd03ed5d881.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1571781926291-c477ebfd024b.jpg",
+    "title": "Unsplash photo unsplash-1571781926291-c477ebfd024b.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1573461160327-b450ce3d8e7f.jpg",
+    "title": "Unsplash photo unsplash-1573461160327-b450ce3d8e7f.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1580870069867-74c57ee1bb07.jpg",
+    "title": "Unsplash photo unsplash-1580870069867-74c57ee1bb07.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1601049676869-702ea24cfd58.jpg",
+    "title": "Unsplash photo unsplash-1601049676869-702ea24cfd58.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1608248543803-ba4f8c70ae0b.jpg",
+    "title": "Unsplash photo unsplash-1608248543803-ba4f8c70ae0b.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1608571423902-eed4a5ad8108.jpg",
+    "title": "Unsplash photo unsplash-1608571423902-eed4a5ad8108.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1611930022073-b7a4ba5fcccd.jpg",
+    "title": "Unsplash photo unsplash-1611930022073-b7a4ba5fcccd.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/unsplash-1615397349754-cfa2066a298e.jpg",
+    "title": "Unsplash photo unsplash-1615397349754-cfa2066a298e.jpg",
+    "credit": "Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/license"
+  },
+  {
+    "file": "/product-photos/commons-19411559.jpg",
+    "title": "Mydło Jacek i Agatka.jpg",
+    "credit": "Topory",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMyd%C5%82o%20Jacek%20i%20Agatka.jpg"
+  },
+  {
+    "file": "/product-photos/commons-64731777.jpg",
+    "title": "Container, lipstick (AM 2014.56.40-9).jpg",
+    "credit": "Auckland Museum",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AContainer%2C_lipstick_(AM%202014.56.40-9).jpg"
+  }
+]
